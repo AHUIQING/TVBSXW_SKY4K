@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 TVBS | TVBS |  |
-https://www.youtube.com/watch?v=KDRwIRKP5tY
+https://www.youtube.com/watch?v=V0WxUakDV7M
